@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wisembly/elephant.io": "^3.3",
+        "symfony/symfony": "^3.3"
+    }
+}
